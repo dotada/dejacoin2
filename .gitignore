@@ -1,0 +1,34 @@
+src/*.exe
+src/dejacoin
+src/dejacoind
+src/test_dejacoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.dejacoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+dejacoin-qt
+Dejacoin-Qt.app
+
+# Unit-tests
+Makefile.test
+dejacoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
