@@ -1,4 +1,4 @@
-NOTE: whoever started power mining my coin please contact me on discord
+NOTE: whoever started power mining my coin please contact me on discord https://discord.gg/5H7yFx9pCr
 
 Dejacoin integration/staging tree
 ================================
