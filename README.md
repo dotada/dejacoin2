@@ -1,3 +1,5 @@
+NOTE: whoever started power mining my coin please contact me on discord
+
 Dejacoin integration/staging tree
 ================================
 
