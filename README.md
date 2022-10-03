@@ -47,9 +47,9 @@ Specifications:
 Links:
 ==================
 
-• [Explorer](/)
+• [Explorer](https://explorer.virtualhackers.cf/)
 
-• [Website](/)
+• [Website](https://dejacoin.virtualhackers.cf/)
 
 • [Discord](https://discord.gg/nZxfnwC3)
 
