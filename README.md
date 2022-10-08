@@ -51,7 +51,7 @@ Links:
 
 • [Website](https://dejacoin.virtualhackers.cf/)
 
-• [Discord](https://discord.gg/nZxfnwC3)
+• [Discord](https://discord.gg/pTDStKtvT3)
 
 ---
 
