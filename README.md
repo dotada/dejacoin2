@@ -49,7 +49,7 @@ Links:
 
 • [Explorer](https://explorer.virtualhackers.cf/)
 
-• [Website](https://dejacoin.virtualhackers.cf/)
+• [Website](https://dejacoin.virtualhackers.cf/) (CURRENTLY DOWN!)
 
 • [Discord](https://discord.gg/pTDStKtvT3)
 
