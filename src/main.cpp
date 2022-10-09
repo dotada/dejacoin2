@@ -2746,10 +2746,10 @@ bool LoadBlockIndex()
 {
     if (fTestNet)
     {
-        pchMessageStart[0] = 0xf1;
-        pchMessageStart[1] = 0xf1;
-        pchMessageStart[2] = 0xf1;
-        pchMessageStart[3] = 0xf1;
+        pchMessageStart[0] = 0xf2;
+        pchMessageStart[1] = 0xf2;
+        pchMessageStart[2] = 0xf2;
+        pchMessageStart[3] = 0xf2;
         hashGenesisBlock = uint256("0xabb5c782a1a8be33b10076274145516aa8b7bdec8a4eb60128964594383d3b88");
     }
 
