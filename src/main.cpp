@@ -1090,9 +1090,6 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
 
      int64 nSubsidy = 20 * COIN;
 
-    if (nHeight == 1)
-     nSubsidy = 10000 * COIN;
-
     // Subsidy is cut in half every 10000 blocks, which will occur approximately every 35 days
     nSubsidy >>= (nHeight / 10000); // Dejacoin: 10k blocks in ~35 days
 
