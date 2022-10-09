@@ -28,8 +28,6 @@ Specifications:
 
 
 
-• Premine:          10 000 DJC
-
 • Maturity:         30 Confirmations  
 
 • Max Supply:       400 000 DJC
